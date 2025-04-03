@@ -3953,6 +3953,10 @@ committees:
   label: security-response
   leadership:
     chairs:
+    - github: puerco
+      name: Adolfo García Veytia
+      company: Stacklok
+      email: adolfo.garcia@uservers.net
     - github: SaranBalaji90
       name: Sri Saran Balaji
       company: Amazon
@@ -3977,6 +3981,9 @@ committees:
       name: Micah Hausler
       company: Amazon
       email: mhausler@amazon.com
+    - github: natherz97
+      company: Amazon
+      email: natherz@amazon.com
     - github: ritazh
       name: Rita Zhang
       company: Microsoft
@@ -3985,6 +3992,9 @@ committees:
       name: Tabitha Sable
       company: Datadog
       email: tabitha.c.sable@gmail.com
+    - github: Vyom-Yadav
+      name: Vyom Yadav
+      company: Canonical
     emeritus_leads:
     - github: lukehinds
       name: Luke Hinds
